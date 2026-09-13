@@ -14,9 +14,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamza-Es-Sofyany&show_icons=true&theme=dark)
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-es-sofyany)
 
