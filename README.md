@@ -25,9 +25,10 @@
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="center">
-  <img src="skills(1).svg" alt="Animated Skills" width="600"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,js,ts,linux,git,cs,cpp,vscode,mysql,css" alt="My Skills" />
+  </a>
 </p>
 ---
 
