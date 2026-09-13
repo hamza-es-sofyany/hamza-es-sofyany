@@ -1,0 +1,178 @@
+<svg width="1100" height="350" viewBox="0 0 1100 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="220%">
+    <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#64748B" flood-opacity=".22"/>
+  </filter>
+  <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#FFFFFF"/>
+    <stop offset=".55" stop-color="#F8FAFC"/>
+    <stop offset="1" stop-color="#E2E8F0"/>
+  </linearGradient>
+  <style>
+    .tile { animation: float 4.2s ease-in-out infinite; transform-box: fill-box; transform-origin:center; }
+    .d1{animation-delay:0s}.d2{animation-delay:.18s}.d3{animation-delay:.36s}.d4{animation-delay:.54s}
+    .d5{animation-delay:.72s}.d6{animation-delay:.90s}.d7{animation-delay:1.08s}.d8{animation-delay:1.26s}
+    .d9{animation-delay:1.44s}.d10{animation-delay:1.62s}.d11{animation-delay:1.80s}.d12{animation-delay:1.98s}
+    @keyframes float {0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+    .name{font-family:Inter,Arial,sans-serif;font-size:12px;font-weight:700;fill:#334155}
+    .title{font-family:Inter,Arial,sans-serif;font-size:14px;font-weight:800;letter-spacing:3px;fill:#334155}
+  </style>
+</defs>
+
+<!-- GitHub-native white / transparent background -->
+<rect x="10" y="10" width="1080" height="330" rx="24" fill="#FFFFFF"/>
+<path d="M170 48H430M670 48H930" stroke="#CBD5E1" stroke-width="1"/>
+<circle cx="550" cy="48" r="3" fill="#64748B"/>
+<text x="550" y="53" text-anchor="middle" class="title">LANGUAGES &amp; TOOLS</text>
+
+<g class="tile d1" filter="url(#shadow)">
+  <path d="M54 86H148Q157 86 157 95V181Q157 190 148 190H54Q45 190 45 181V95Q45 86 54 86Z"
+        fill="#CBD5E1"/>
+  <rect x="45" y="78" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="58" y="91" width="78" height="62" rx="15" fill="#00599C" opacity=".13"/>
+  <rect x="60" y="93" width="74" height="58" rx="14" fill="#00599C" opacity=".96"/>
+  <path d="M65 98H129" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="74" y="103" width="46" height="46"
+         href="https://cdn.simpleicons.org/c/00599C" preserveAspectRatio="xMidYMid meet"/>
+  <text x="97" y="172" text-anchor="middle" class="name">C</text>
+</g>
+
+<g class="tile d2" filter="url(#shadow)">
+  <path d="M204 86H298Q307 86 307 95V181Q307 190 298 190H204Q195 190 195 181V95Q195 86 204 86Z"
+        fill="#CBD5E1"/>
+  <rect x="195" y="78" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="208" y="91" width="78" height="62" rx="15" fill="#3776AB" opacity=".13"/>
+  <rect x="210" y="93" width="74" height="58" rx="14" fill="#3776AB" opacity=".96"/>
+  <path d="M215 98H279" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="224" y="103" width="46" height="46"
+         href="https://cdn.simpleicons.org/python/3776AB" preserveAspectRatio="xMidYMid meet"/>
+  <text x="247" y="172" text-anchor="middle" class="name">Python</text>
+</g>
+
+<g class="tile d3" filter="url(#shadow)">
+  <path d="M354 86H448Q457 86 457 95V181Q457 190 448 190H354Q345 190 345 181V95Q345 86 354 86Z"
+        fill="#CBD5E1"/>
+  <rect x="345" y="78" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="358" y="91" width="78" height="62" rx="15" fill="#F7DF1E" opacity=".13"/>
+  <rect x="360" y="93" width="74" height="58" rx="14" fill="#F7DF1E" opacity=".96"/>
+  <path d="M365 98H429" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="374" y="103" width="46" height="46"
+         href="https://cdn.simpleicons.org/javascript/F7DF1E" preserveAspectRatio="xMidYMid meet"/>
+  <text x="397" y="172" text-anchor="middle" class="name">JavaScript</text>
+</g>
+
+<g class="tile d4" filter="url(#shadow)">
+  <path d="M504 86H598Q607 86 607 95V181Q607 190 598 190H504Q495 190 495 181V95Q495 86 504 86Z"
+        fill="#CBD5E1"/>
+  <rect x="495" y="78" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="508" y="91" width="78" height="62" rx="15" fill="#3178C6" opacity=".13"/>
+  <rect x="510" y="93" width="74" height="58" rx="14" fill="#3178C6" opacity=".96"/>
+  <path d="M515 98H579" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="524" y="103" width="46" height="46"
+         href="https://cdn.simpleicons.org/typescript/3178C6" preserveAspectRatio="xMidYMid meet"/>
+  <text x="547" y="172" text-anchor="middle" class="name">TypeScript</text>
+</g>
+
+<g class="tile d5" filter="url(#shadow)">
+  <path d="M654 86H748Q757 86 757 95V181Q757 190 748 190H654Q645 190 645 181V95Q645 86 654 86Z"
+        fill="#CBD5E1"/>
+  <rect x="645" y="78" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="658" y="91" width="78" height="62" rx="15" fill="#FCC624" opacity=".13"/>
+  <rect x="660" y="93" width="74" height="58" rx="14" fill="#FCC624" opacity=".96"/>
+  <path d="M665 98H729" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="674" y="103" width="46" height="46"
+         href="https://cdn.simpleicons.org/linux/FCC624" preserveAspectRatio="xMidYMid meet"/>
+  <text x="697" y="172" text-anchor="middle" class="name">Linux</text>
+</g>
+
+<g class="tile d6" filter="url(#shadow)">
+  <path d="M804 86H898Q907 86 907 95V181Q907 190 898 190H804Q795 190 795 181V95Q795 86 804 86Z"
+        fill="#CBD5E1"/>
+  <rect x="795" y="78" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="808" y="91" width="78" height="62" rx="15" fill="#4EAA25" opacity=".13"/>
+  <rect x="810" y="93" width="74" height="58" rx="14" fill="#4EAA25" opacity=".96"/>
+  <path d="M815 98H879" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="824" y="103" width="46" height="46"
+         href="https://cdn.simpleicons.org/gnubash/4EAA25" preserveAspectRatio="xMidYMid meet"/>
+  <text x="847" y="172" text-anchor="middle" class="name">Bash</text>
+</g>
+
+<g class="tile d7" filter="url(#shadow)">
+  <path d="M129 226H223Q232 226 232 235V321Q232 330 223 330H129Q120 330 120 321V235Q120 226 129 226Z"
+        fill="#CBD5E1"/>
+  <rect x="120" y="218" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="133" y="231" width="78" height="62" rx="15" fill="#F05032" opacity=".13"/>
+  <rect x="135" y="233" width="74" height="58" rx="14" fill="#F05032" opacity=".96"/>
+  <path d="M140 238H204" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="149" y="243" width="46" height="46"
+         href="https://cdn.simpleicons.org/git/F05032" preserveAspectRatio="xMidYMid meet"/>
+  <text x="172" y="312" text-anchor="middle" class="name">Git</text>
+</g>
+
+<g class="tile d8" filter="url(#shadow)">
+  <path d="M279 226H373Q382 226 382 235V321Q382 330 373 330H279Q270 330 270 321V235Q270 226 279 226Z"
+        fill="#CBD5E1"/>
+  <rect x="270" y="218" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="283" y="231" width="78" height="62" rx="15" fill="#181717" opacity=".13"/>
+  <rect x="285" y="233" width="74" height="58" rx="14" fill="#181717" opacity=".96"/>
+  <path d="M290 238H354" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="299" y="243" width="46" height="46"
+         href="https://cdn.simpleicons.org/github/181717" preserveAspectRatio="xMidYMid meet"/>
+  <text x="322" y="312" text-anchor="middle" class="name">GitHub</text>
+</g>
+
+<g class="tile d9" filter="url(#shadow)">
+  <path d="M429 226H523Q532 226 532 235V321Q532 330 523 330H429Q420 330 420 321V235Q420 226 429 226Z"
+        fill="#CBD5E1"/>
+  <rect x="420" y="218" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="433" y="231" width="78" height="62" rx="15" fill="#007ACC" opacity=".13"/>
+  <rect x="435" y="233" width="74" height="58" rx="14" fill="#007ACC" opacity=".96"/>
+  <path d="M440 238H504" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="449" y="243" width="46" height="46"
+         href="https://cdn.simpleicons.org/visualstudiocode/007ACC" preserveAspectRatio="xMidYMid meet"/>
+  <text x="472" y="312" text-anchor="middle" class="name">VS Code</text>
+</g>
+
+<g class="tile d10" filter="url(#shadow)">
+  <path d="M579 226H673Q682 226 682 235V321Q682 330 673 330H579Q570 330 570 321V235Q570 226 579 226Z"
+        fill="#CBD5E1"/>
+  <rect x="570" y="218" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="583" y="231" width="78" height="62" rx="15" fill="#E34F26" opacity=".13"/>
+  <rect x="585" y="233" width="74" height="58" rx="14" fill="#E34F26" opacity=".96"/>
+  <path d="M590 238H654" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="599" y="243" width="46" height="46"
+         href="https://cdn.simpleicons.org/html5/E34F26" preserveAspectRatio="xMidYMid meet"/>
+  <text x="622" y="312" text-anchor="middle" class="name">HTML</text>
+</g>
+
+<g class="tile d11" filter="url(#shadow)">
+  <path d="M729 226H823Q832 226 832 235V321Q832 330 823 330H729Q720 330 720 321V235Q720 226 729 226Z"
+        fill="#CBD5E1"/>
+  <rect x="720" y="218" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="733" y="231" width="78" height="62" rx="15" fill="#1572B6" opacity=".13"/>
+  <rect x="735" y="233" width="74" height="58" rx="14" fill="#1572B6" opacity=".96"/>
+  <path d="M740 238H804" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="749" y="243" width="46" height="46"
+         href="https://cdn.simpleicons.org/css/1572B6" preserveAspectRatio="xMidYMid meet"/>
+  <text x="772" y="312" text-anchor="middle" class="name">CSS</text>
+</g>
+
+<g class="tile d12" filter="url(#shadow)">
+  <path d="M879 226H973Q982 226 982 235V321Q982 330 973 330H879Q870 330 870 321V235Q870 226 879 226Z"
+        fill="#CBD5E1"/>
+  <rect x="870" y="218" width="104" height="104" rx="18" fill="url(#surface)" stroke="#E2E8F0"/>
+  <rect x="883" y="231" width="78" height="62" rx="15" fill="#06B6D4" opacity=".13"/>
+  <rect x="885" y="233" width="74" height="58" rx="14" fill="#06B6D4" opacity=".96"/>
+  <path d="M890 238H954" stroke="#FFFFFF" stroke-opacity=".38" stroke-width="2" stroke-linecap="round"/>
+  <image x="899" y="243" width="46" height="46"
+         href="https://cdn.simpleicons.org/tailwindcss/06B6D4" preserveAspectRatio="xMidYMid meet"/>
+  <text x="922" y="312" text-anchor="middle" class="name">Tailwind CSS</text>
+</g>
+
+<!-- subtle GitHub-style footer -->
+<path d="M330 328H770" stroke="#E2E8F0"/>
+<circle cx="550" cy="328" r="2" fill="#94A3B8"/>
+</svg>
