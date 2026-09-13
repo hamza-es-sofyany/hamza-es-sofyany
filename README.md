@@ -12,11 +12,11 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **Software Engineering Student** & **Pisciner** @ **1337 School** (42 Network - Khouribga)
-- 💻 Passionate about **C, Python, JavaScript & TypeScript**
-- 🌱 Currently learning: **Low-level programming & UNIX Architecture**
-- 📍 **Tiznit, Morocco**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Pisciner+%40+1337+School;Passionate+about+C%2C+Python+%26+JS;Learning+UNIX+Architecture" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
