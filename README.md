@@ -26,7 +26,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,js,linux,git,vscode,visualstudio" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,py,js,linux,git,vscode" alt="My Skills" />
 </p>
 ---
 
