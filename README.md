@@ -27,53 +27,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- Define the ripple-wave movement animation -->
-    <defs>
-      <style>
-        @keyframes rippleWave {
-          0% { transform: translateY(0px) scale(1); opacity: 1; }
-          25% { transform: translateY(-3px) scale(1.02); opacity: 1; }
-          50% { transform: translateY(0px) scale(1.05); opacity: 0.9; }
-          75% { transform: translateY(3px) scale(1.02); opacity: 1; }
-          100% { transform: translateY(0px) scale(1); opacity: 1; }
-        }
-        .icon {
-          animation: rippleWave 3.5s infinite ease-in-out;
-        }
-      }
-      </style>
-    </defs>
-
-    <!-- Row 1: 6 Icons -->
-    <!-- C -->
-    <image xlink:href="https://simpleicons.org/icons/c.svg" x="40" y="20" width="80" height="80" class="icon" style="animation-delay: 0s; fill: #00599C;" />
-    <!-- Python -->
-    <image xlink:href="https://simpleicons.org/icons/python.svg" x="130" y="20" width="80" height="80" class="icon" style="animation-delay: 0.3s; fill: #3776AB;" />
-    <!-- JavaScript -->
-    <image xlink:href="https://simpleicons.org/icons/javascript.svg" x="220" y="20" width="80" height="80" class="icon" style="animation-delay: 0.6s; fill: #F7DF1E;" />
-    <!-- TypeScript -->
-    <image xlink:href="https://simpleicons.org/icons/typescript.svg" x="310" y="20" width="80" height="80" class="icon" style="animation-delay: 0.9s; fill: #007ACC;" />
-    <!-- Linux -->
-    <image xlink:href="https://simpleicons.org/icons/linux.svg" x="400" y="20" width="80" height="80" class="icon" style="animation-delay: 1.2s; fill: #FCC624;" />
-    <!-- Bash -->
-    <image xlink:href="https://simpleicons.org/icons/bash.svg" x="490" y="20" width="80" height="80" class="icon" style="animation-delay: 1.5s; fill: #4EAA25;" />
-
-    <!-- Row 2: 6 Icons -->
-    <!-- Git -->
-    <image xlink:href="https://simpleicons.org/icons/git.svg" x="40" y="110" width="80" height="80" class="icon" style="animation-delay: 1.8s; fill: #F05032;" />
-    <!-- VSCode -->
-    <image xlink:href="https://simpleicons.org/icons/visualstudiocode.svg" x="130" y="110" width="80" height="80" class="icon" style="animation-delay: 2.1s; fill: #007ACC;" />
-    <!-- GitHub -->
-    <image xlink:href="https://simpleicons.org/icons/github.svg" x="220" y="110" width="80" height="80" class="icon" style="animation-delay: 2.4s; fill: #181717;" />
-    <!-- HTML5 -->
-    <image xlink:href="https://simpleicons.org/icons/html5.svg" x="310" y="110" width="80" height="80" class="icon" style="animation-delay: 2.7s; fill: #E34F26;" />
-    <!-- CSS3 -->
-    <image xlink:href="https://simpleicons.org/icons/css3.svg" x="400" y="110" width="80" height="80" class="icon" style="animation-delay: 3s; fill: #1572B6;" />
-    <!-- Tailwind -->
-    <image xlink:href="https://simpleicons.org/icons/tailwindcss.svg" x="490" y="110" width="80" height="80" class="icon" style="animation-delay: 3.3s; fill: #06B6D4;" />
-
-  </svg>
+  <img src="skills.svg" alt="Animated Skills" width="600"/>
 </p>
 ---
 
