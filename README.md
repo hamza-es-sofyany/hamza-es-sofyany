@@ -39,14 +39,3 @@
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-es-sofyany)
-
-# 👋 Hamza Es-Sofyany | 1337 School (42 Network)
-> 🏊 Currently surviving the **Piscine** @ 1337 Khouribga 🔴
-
-<p align="center">
-  <img src="42-card.svg" alt="42 Network Card"/>
-</p>
-<text x="424" y="344" font-family="monospace" font-size="18" font-weight="bold" fill="#e6e6e6">Pisciner</text>
-</svg>
-
-</p>
