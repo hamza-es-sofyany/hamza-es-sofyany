@@ -20,11 +20,11 @@
 
 ---
 
+---
+
 ### 🛠️ Languages & Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,ts,linux,bash,git,vscode,github,html,css,tailwind&perline=6&theme=dark" />
-  </a>
+  <img src="https://rahuldkjain-github-profile-readme-generator.vercel.app/api?username=hamza-es-sofyany&icons=c%2Cpython%2Cjs%2Cts%2Clinux%2Cbash%2Cgit%2Cvsc%2Cgithub%2Chtml5%2Ccss3%2Ctailwind&theme=dark" width="600" />
 </p>
 
 ---
