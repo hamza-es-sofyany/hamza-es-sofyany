@@ -27,7 +27,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="skills.svg" alt="Animated Skills" width="600"/>
+  <img src="skills(1).svg" alt="Animated Skills" width="600"/>
 </p>
 ---
 
