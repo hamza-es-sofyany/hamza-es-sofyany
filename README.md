@@ -1,3 +1,4 @@
+<a href="https://github-card.elite-1337.app/"><img src="https://github-card.elite-1337.app/api/gh/hamza-es-sofyany.svg?name=l3rbi%20lhdaj&host=1337%20tiznit&role=bnay&loc=ayt%20l3rbi&now=clavi" alt="GitHub card" width="985"></a>
 <!-- ⚡ ANIMATED HEADER -->
 <p align="center">
   <a href="https://github.com/hamza-es-sofyany">
