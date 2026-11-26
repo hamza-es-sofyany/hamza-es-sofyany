@@ -23,8 +23,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Es-Sofyany&show_icons=true&theme=cyberpunk&border_radius=8&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Es-Sofyany&theme=cyberpunk&border_radius=8&hide_border=true" width="48%"/>
-</p>
 
 ---
 
