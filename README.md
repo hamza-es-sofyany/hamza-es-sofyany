@@ -1,16 +1,5 @@
 <a href="https://www.elite-1337.app"><img src="https://www.elite-1337.app/api/card/269970.svg?t=9GdQJVEqRzlGTlfaUhJ6vWYMYLk2QipwEU5djLjp5iY" alt="Elite 1337 rank" width="840"></a>
 <!-- ⚡ ANIMATED HEADER -->
-<p align="center">
-  <a href="https://github.com/hamza-es-sofyany">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Hamza+Es-Sofyany+%F0%9F%91%8B;1337+School+Pisciner+%40+42+Network+%F0%9F%8F%8A;Low-Level+Programming+%26+Web+Dev+%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- 🎴 42 NETWORK CARD -->
-<p align="center">
-  <img src="42-card.svg" alt="42 Network Card" width="620"/>
-</p>
-
 ---
 
 <p align="center">
